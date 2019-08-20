@@ -1,0 +1,4 @@
+# github.com/gosimple/slug v1.7.0
+github.com/gosimple/slug
+# github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be
+github.com/rainycape/unidecode

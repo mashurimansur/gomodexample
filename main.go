@@ -1,9 +1,11 @@
 package main
 
 import (
+	"github.com/gosimple/slug"
 	"log"
 )
 
 func main() {
-	log.Println("hai")
+	text := slug.Make("Ini Adalah Text")
+	log.Println(text)
 }
